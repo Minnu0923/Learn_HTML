@@ -1,0 +1,9 @@
+a{
+    background-color: red;
+}
+a[target]{
+    background-color: yellow;
+}
+*{font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+background-color: beige;}
